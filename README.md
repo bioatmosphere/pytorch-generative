@@ -56,7 +56,7 @@ To use `pytorch-generative` in Google Colab, clone the repository and move it in
 
 ```
 !git clone https://www.github.com/EugenHotaj/pytorch-generative
-!mv pytorch-generative/pytorch_generative pytorch-generative
+!mv pytorch-generative/pytorch_generative .
 ```
 
 You can then import `pytorch-generative` like any other library:
