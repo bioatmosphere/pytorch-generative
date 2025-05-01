@@ -9,5 +9,5 @@
 #SBATCH --gpus-per-task=1
 
 cd ../
-python train.py --model image_gpt --gpus 1
+python train.py --model vae --gpus 1
 
